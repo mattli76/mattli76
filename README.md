@@ -1,7 +1,7 @@
 - 👋 Hi, I’m matt li
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning mxnet
-- 💞️ I’m looking to collaborate on deep learning 
+- 🌱 I’m currently learning pytorch/mxnet
+- 💞️ I’m looking to collaborate on deep learning in CV field
 - 📫 How to reach me, imgbook76@gmail.com
 
 <!---
